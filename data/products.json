@@ -163,10 +163,10 @@
     },
     "harvest": "First flush, late April 2026",
     "cultivar": "Saemidori",
-    "image": "https://images.unsplash.com/photo-1597481499666-7ab19c1c1f3a?auto=format&fit=crop&w=1600&q=80",
+    "image": "/products/saemidori.png",
     "imageAlt": "A glass of iced matcha latte",
     "gallery": [
-      "https://images.unsplash.com/photo-1597481499666-7ab19c1c1f3a?auto=format&fit=crop&w=1600&q=80"
+      "/products/saemidori.png"
     ],
     "featured": false,
     "inventory": 95
