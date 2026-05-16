@@ -37,6 +37,14 @@ export function ShopGrid({
   const [sort, setSort] = useState<string>("default");
 
   useEffect(() => {
+    setGrade(initialGrade);
+  }, [initialGrade]);
+
+  useEffect(() => {
+    setOrigin(initialOrigin);
+  }, [initialOrigin]);
+
+  useEffect(() => {
     const params = new URLSearchParams();
     if (grade !== "all") params.set("grade", grade);
     if (origin !== "all") params.set("origin", origin);
