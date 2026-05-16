@@ -29,20 +29,35 @@ export function ShopGrid({
   const pathname = usePathname();
   const searchParams = useSearchParams();
 
-  const initialGrade = (searchParams.get("grade") as Grade | null) ?? "all";
-  const initialOrigin = searchParams.get("origin") ?? "all";
+  const urlGrade = (searchParams.get("grade") as Grade | null) ?? "all";
+  const urlOrigin = searchParams.get("origin") ?? "all";
 
-  const [grade, setGrade] = useState<Grade | "all">(initialGrade);
-  const [origin, setOrigin] = useState<string>(initialOrigin);
+  const [grade, setGrade] = useState<Grade | "all">(urlGrade);
+  const [origin, setOrigin] = useState<string>(urlOrigin);
   const [sort, setSort] = useState<string>("default");
 
+  // Sync state FROM url when query string changes (e.g. clicking nav links)
+  useEffect(() => {
+    setGrade(urlGrade);
+  }, [urlGrade]);
+
+  useEffect(() => {
+    setOrigin(urlOrigin);
+  }, [urlOrigin]);
+
+  // Sync url FROM state when user clicks filter buttons
   useEffect(() => {
     const params = new URLSearchParams();
     if (grade !== "all") params.set("grade", grade);
     if (origin !== "all") params.set("origin", origin);
     const qs = params.toString();
-    router.replace(`${pathname}${qs ? "?" + qs : ""}`, { scroll: false });
-  }, [grade, origin, pathname, router]);
+    const target = `${pathname}${qs ? "?" + qs : ""}`;
+    const currentQs = searchParams.toString();
+    const current = `${pathname}${currentQs ? "?" + currentQs : ""}`;
+    if (target !== current) {
+      router.replace(target, { scroll: false });
+    }
+  }, [grade, origin, pathname, router, searchParams]);
 
   const filtered = useMemo(() => {
     let out = products.slice();
