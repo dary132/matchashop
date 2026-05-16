@@ -23,7 +23,7 @@
     "imageAlt": "A bowl of bright green matcha tea with a bamboo whisk",
     "gallery": [
       "https://images.unsplash.com/photo-1545048702-79362596cdc9?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1536013455471-cab63d3aff34?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1708573106044-2bbefb3d9fc3?q=80&w=1600&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1547793548-7a0e7dfdb24f?auto=format&fit=crop&w=1600&q=80"
     ],
     "featured": true,
@@ -52,7 +52,7 @@
     "image": "https://images.unsplash.com/photo-1708573106044-2bbefb3d9fc3?q=80&w=1600&auto=format&fit=crop",
     "imageAlt": "Matcha powder in a wooden scoop",
     "gallery": [
-      "https://images.unsplash.com/photo-1536013455471-cab63d3aff34?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1708573106044-2bbefb3d9fc3?q=80&w=1600&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?auto=format&fit=crop&w=1600&q=80"
     ],
     "featured": true,
