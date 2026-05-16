@@ -1,0 +1,230 @@
+[
+  {
+    "slug": "uji-okumidori",
+    "name": "Okumidori",
+    "nameJp": "奥緑",
+    "grade": "ceremonial",
+    "origin": "Uji",
+    "prefecture": "Kyoto",
+    "weightGrams": 30,
+    "priceCents": 6800,
+    "tagline": "First harvest, single cultivar. The matcha of quiet rooms.",
+    "description": "Stone-milled from shade-grown Okumidori leaves picked in the first days of May. A clear, lingering umami with a soft floral finish — the standard against which other ceremonial matcha is measured.",
+    "tastingNotes": ["umami", "white blossom", "fresh cream", "kelp"],
+    "story": "Cultivated on a half-hectare plot east of the Uji river by the Tsuji family, fifth generation. The fields are tented with reed shades — honzu — for twenty-one days before harvest, a method largely unchanged since the sixteenth century.",
+    "brewing": {
+      "water": "70°C / 158°F",
+      "tea": "2 g (1 chashaku) per 60 ml",
+      "method": "Sift, add water, whisk in a brisk W-shape until a fine foam forms. Drink within minutes."
+    },
+    "harvest": "First flush, May 2026",
+    "cultivar": "Okumidori",
+    "image": "https://images.unsplash.com/photo-1545048702-79362596cdc9?auto=format&fit=crop&w=1600&q=80",
+    "imageAlt": "A bowl of bright green matcha tea with a bamboo whisk",
+    "gallery": [
+      "https://images.unsplash.com/photo-1545048702-79362596cdc9?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1536013455471-cab63d3aff34?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1547793548-7a0e7dfdb24f?auto=format&fit=crop&w=1600&q=80"
+    ],
+    "featured": true,
+    "inventory": 42
+  },
+  {
+    "slug": "nishio-samidori",
+    "name": "Samidori",
+    "nameJp": "さみどり",
+    "grade": "ceremonial",
+    "origin": "Nishio",
+    "prefecture": "Aichi",
+    "weightGrams": 30,
+    "priceCents": 5400,
+    "tagline": "A bright, almost crystalline ceremonial grade from the Yahagi plain.",
+    "description": "Nishio's mineral-rich soil and morning fog produce a matcha with unusual clarity. Samidori is the most demanding cultivar to grow — slow, low-yield — and rewards the patience with a clean, almost glass-like sweetness.",
+    "tastingNotes": ["young grass", "edamame", "sugar snap", "river stone"],
+    "story": "Grown by a co-op of seven families along the Yahagi river. The Nishio region produces only a fraction of Japan's matcha, but its tea is poured at imperial ceremonies and Zen temples across Honshu.",
+    "brewing": {
+      "water": "70°C / 158°F",
+      "tea": "2 g per 70 ml",
+      "method": "Whisk vigorously until foam is fine and uniform. Serve in a warmed chawan."
+    },
+    "harvest": "First flush, May 2026",
+    "cultivar": "Samidori",
+    "image": "https://images.unsplash.com/photo-1536013455471-cab63d3aff34?auto=format&fit=crop&w=1600&q=80",
+    "imageAlt": "Matcha powder in a wooden scoop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1536013455471-cab63d3aff34?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?auto=format&fit=crop&w=1600&q=80"
+    ],
+    "featured": true,
+    "inventory": 64
+  },
+  {
+    "slug": "uji-asahi",
+    "name": "Asahi",
+    "nameJp": "あさひ",
+    "grade": "ceremonial",
+    "origin": "Uji",
+    "prefecture": "Kyoto",
+    "weightGrams": 20,
+    "priceCents": 9200,
+    "tagline": "The cultivar of imperial preference. Vanishingly small harvest.",
+    "description": "Asahi is the cultivar reserved for koicha — the thick matcha served at the most formal tea gatherings. Deep umami, an almost savory sweetness, and a long finish that holds for minutes.",
+    "tastingNotes": ["dashi", "marzipan", "warm cream", "shiso"],
+    "story": "Cultivated on a single hillside in Ogura by Mr. Hori, who keeps fewer than a hundred Asahi bushes. We receive thirty tins per year, no more.",
+    "brewing": {
+      "water": "75°C / 167°F",
+      "tea": "4 g per 30 ml — koicha style",
+      "method": "Kneaded slowly with the whisk, not whipped. The result is a thick, syrupy tea, drunk in three and a half sips."
+    },
+    "harvest": "First flush, late April 2026",
+    "cultivar": "Asahi",
+    "image": "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?auto=format&fit=crop&w=1600&q=80",
+    "imageAlt": "A traditional ceramic matcha bowl beside a bamboo whisk",
+    "gallery": [
+      "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1545048702-79362596cdc9?auto=format&fit=crop&w=1600&q=80"
+    ],
+    "featured": true,
+    "inventory": 12
+  },
+  {
+    "slug": "uji-yabukita",
+    "name": "Yabukita",
+    "nameJp": "やぶきた",
+    "grade": "premium",
+    "origin": "Uji",
+    "prefecture": "Kyoto",
+    "weightGrams": 40,
+    "priceCents": 3800,
+    "tagline": "An everyday matcha that takes nothing for granted.",
+    "description": "The most-planted cultivar in Japan, here grown to a higher standard than its reputation suggests. A warm, full-bodied cup for daily practice — strong enough for usucha, gentle enough for morning.",
+    "tastingNotes": ["roasted chestnut", "spinach", "butter", "fresh hay"],
+    "story": "Sourced from a cooperative of small growers in the Wazuka hills. The Yabukita cultivar dominates Japanese tea because it grew well, not because it grew best — but careful sourcing finds plots where it shines.",
+    "brewing": {
+      "water": "72°C / 162°F",
+      "tea": "2 g per 80 ml",
+      "method": "Whisk briskly until foam appears. A good cup for morning."
+    },
+    "harvest": "First flush, May 2026",
+    "cultivar": "Yabukita",
+    "image": "https://images.unsplash.com/photo-1547793548-7a0e7dfdb24f?auto=format&fit=crop&w=1600&q=80",
+    "imageAlt": "Whisked matcha in a dark stoneware bowl",
+    "gallery": [
+      "https://images.unsplash.com/photo-1547793548-7a0e7dfdb24f?auto=format&fit=crop&w=1600&q=80"
+    ],
+    "featured": false,
+    "inventory": 120
+  },
+  {
+    "slug": "nishio-gokou",
+    "name": "Gokou",
+    "nameJp": "ごこう",
+    "grade": "premium",
+    "origin": "Nishio",
+    "prefecture": "Aichi",
+    "weightGrams": 40,
+    "priceCents": 4400,
+    "tagline": "Dark, sweet, deeply aromatic. The connoisseur's daily cup.",
+    "description": "Gokou is shaded longer than most cultivars, producing dark leaves that mill into an unusually rich matcha. Sweetness leans toward dark chocolate; aroma fills the room before the bowl reaches your lips.",
+    "tastingNotes": ["dark chocolate", "toasted nori", "honey", "wet stone"],
+    "story": "Grown under thirty days of shade — five days longer than ceremonial standard — by a single farm cooperative south of Nishio city.",
+    "brewing": {
+      "water": "72°C / 162°F",
+      "tea": "2 g per 70 ml",
+      "method": "Whisk into a thick foam. Pairs unusually well with a piece of dark chocolate."
+    },
+    "harvest": "First flush, May 2026",
+    "cultivar": "Gokou",
+    "image": "https://images.unsplash.com/photo-1582793988951-9aed5509eb97?auto=format&fit=crop&w=1600&q=80",
+    "imageAlt": "Close-up of fine matcha powder",
+    "gallery": [
+      "https://images.unsplash.com/photo-1582793988951-9aed5509eb97?auto=format&fit=crop&w=1600&q=80"
+    ],
+    "featured": true,
+    "inventory": 86
+  },
+  {
+    "slug": "kagoshima-saemidori",
+    "name": "Saemidori",
+    "nameJp": "さえみどり",
+    "grade": "premium",
+    "origin": "Chiran",
+    "prefecture": "Kagoshima",
+    "weightGrams": 40,
+    "priceCents": 4200,
+    "tagline": "Volcanic soil, southern sun. A bright, modern matcha.",
+    "description": "Chiran sits at the foot of a volcano on Japan's southern island, where warmer days produce a brighter, more vivid green. The result is a matcha with snap and lift — less weight, more clarity.",
+    "tastingNotes": ["lemongrass", "snap pea", "lime peel", "morning dew"],
+    "story": "A young farm run by Naomi Tanaka, who returned to her family's fields after twelve years in Tokyo. We were her first export buyer.",
+    "brewing": {
+      "water": "70°C / 158°F",
+      "tea": "2 g per 80 ml",
+      "method": "Whisk to a brisk foam. Serves cold beautifully — try over ice with a splash of milk."
+    },
+    "harvest": "First flush, late April 2026",
+    "cultivar": "Saemidori",
+    "image": "https://images.unsplash.com/photo-1597481499666-7ab19c1c1f3a?auto=format&fit=crop&w=1600&q=80",
+    "imageAlt": "A glass of iced matcha latte",
+    "gallery": [
+      "https://images.unsplash.com/photo-1597481499666-7ab19c1c1f3a?auto=format&fit=crop&w=1600&q=80"
+    ],
+    "featured": false,
+    "inventory": 95
+  },
+  {
+    "slug": "uji-culinary",
+    "name": "Uji Culinary",
+    "nameJp": "宇治・料理用",
+    "grade": "culinary",
+    "origin": "Uji",
+    "prefecture": "Kyoto",
+    "weightGrams": 100,
+    "priceCents": 3200,
+    "tagline": "Late-harvest, robust. Built for baking, lattes, and recipe work.",
+    "description": "A late-harvest Uji blend, sun-grown for body and color. Not for drinking straight — but for matcha financiers, ice cream, and lattes, the depth is unmatched by anything we've found at the price.",
+    "tastingNotes": ["toasted grass", "miso", "brown butter", "cocoa"],
+    "story": "Blended from second-flush leaves across the Uji region. The same growers we work with for ceremonial grades — culinary is what their kitchens use, and now ours.",
+    "brewing": {
+      "water": "n/a — for baking and lattes",
+      "tea": "1 tsp per 8 oz milk",
+      "method": "Steam milk and whisk in. Holds its color and bitterness through 180°C oven heat."
+    },
+    "harvest": "Second flush, June 2026",
+    "cultivar": "Blend",
+    "image": "https://images.unsplash.com/photo-1515823064-d6e0c04616a7?auto=format&fit=crop&w=1600&q=80",
+    "imageAlt": "Matcha powder on a wooden surface beside ingredients",
+    "gallery": [
+      "https://images.unsplash.com/photo-1515823064-d6e0c04616a7?auto=format&fit=crop&w=1600&q=80"
+    ],
+    "featured": false,
+    "inventory": 220
+  },
+  {
+    "slug": "starter-set",
+    "name": "The Starter Set",
+    "nameJp": "初めての一式",
+    "grade": "ceremonial",
+    "origin": "Uji",
+    "prefecture": "Kyoto",
+    "weightGrams": 30,
+    "priceCents": 14800,
+    "tagline": "Everything you need, considered. A whisk, a bowl, a tin.",
+    "description": "Our Okumidori ceremonial matcha, a hand-cut bamboo chasen from a Takayama whiskmaker, a wood-fired chawan from a small Tamba kiln, and a bamboo scoop. Packed in furoshiki cloth.",
+    "tastingNotes": ["everything to begin"],
+    "story": "We assembled this for people who wanted to start, and were tired of being upsold. Every piece is one we use ourselves.",
+    "brewing": {
+      "water": "70°C / 158°F",
+      "tea": "Included guide",
+      "method": "Comes with a printed brewing card and our preferred technique."
+    },
+    "harvest": "Tin: first flush, May 2026",
+    "cultivar": "Okumidori",
+    "image": "https://images.unsplash.com/photo-1531983412531-1f49a365ffed?auto=format&fit=crop&w=1600&q=80",
+    "imageAlt": "Tea ceremony tools arranged on a wooden surface",
+    "gallery": [
+      "https://images.unsplash.com/photo-1531983412531-1f49a365ffed?auto=format&fit=crop&w=1600&q=80"
+    ],
+    "featured": true,
+    "inventory": 28
+  }
+]
